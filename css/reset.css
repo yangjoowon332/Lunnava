@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+*{margin: 0;padding: 0;}
+
+
+li{list-style-type: none;}
+a{text-decoration: none;color: #343434;}
+img {vertical-align: top;}
+table {border-collapse: collapse;}
+input {outline: 0;}
+fieldset {border: 0;}
+legend {font-size: 0; color: transparent;}
